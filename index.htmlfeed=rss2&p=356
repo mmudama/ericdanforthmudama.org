@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 	</title>
+	<atom:link href="http://www.ericdanforthmudama.org/?feed=rss2&#038;p=356" rel="self" type="application/rss+xml" />
+	<link>http://www.ericdanforthmudama.org/?p=356</link>
+	<description>In memoriam</description>
+	<lastBuildDate>Sat, 07 Apr 2018 15:30:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.22</generator>
+	<item>
+		<title>
+		By: Monique Mudama		</title>
+		<link>http://www.ericdanforthmudama.org/?p=356#comment-21</link>
+
+		<dc:creator><![CDATA[Monique Mudama]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2018 15:30:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.ericdanforthmudama.org/?p=356#comment-21</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://www.ericdanforthmudama.org/?p=356#comment-11&quot;&gt;Betsy Mudama&lt;/a&gt;.
+
+I found it in his photos ... I suspect it&#039;s from the Eve Fanfest in Iceland.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://www.ericdanforthmudama.org/?p=356#comment-11">Betsy Mudama</a>.</p>
+<p>I found it in his photos &#8230; I suspect it&#8217;s from the Eve Fanfest in Iceland.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Betsy Mudama		</title>
+		<link>http://www.ericdanforthmudama.org/?p=356#comment-11</link>
+
+		<dc:creator><![CDATA[Betsy Mudama]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2018 04:29:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.ericdanforthmudama.org/?p=356#comment-11</guid>
+
+					<description><![CDATA[Looks a little beyond “happy” to me!  Where/when was this?]]></description>
+			<content:encoded><![CDATA[<p>Looks a little beyond “happy” to me!  Where/when was this?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

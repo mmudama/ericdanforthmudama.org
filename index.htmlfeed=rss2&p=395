@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 	</title>
+	<atom:link href="http://www.ericdanforthmudama.org/?feed=rss2&#038;p=395" rel="self" type="application/rss+xml" />
+	<link>http://www.ericdanforthmudama.org/?p=395</link>
+	<description>In memoriam</description>
+	<lastBuildDate>Tue, 10 Apr 2018 01:55:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.22</generator>
+	<item>
+		<title>
+		By: Ingrid Hastings		</title>
+		<link>http://www.ericdanforthmudama.org/?p=395#comment-25</link>
+
+		<dc:creator><![CDATA[Ingrid Hastings]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2018 01:55:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.ericdanforthmudama.org/?p=395#comment-25</guid>
+
+					<description><![CDATA[Wondeful photos,
+ Bitter sweet memories]]></description>
+			<content:encoded><![CDATA[<p>Wondeful photos,<br />
+ Bitter sweet memories</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Betsy Mudama		</title>
+		<link>http://www.ericdanforthmudama.org/?p=395#comment-5</link>
+
+		<dc:creator><![CDATA[Betsy Mudama]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2018 04:10:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.ericdanforthmudama.org/?p=395#comment-5</guid>
+
+					<description><![CDATA[Wonderful photo from Eric and Monique’s wedding day:  3/29/04]]></description>
+			<content:encoded><![CDATA[<p>Wonderful photo from Eric and Monique’s wedding day:  3/29/04</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Monika		</title>
+		<link>http://www.ericdanforthmudama.org/?p=395#comment-2</link>
+
+		<dc:creator><![CDATA[Monika]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 02:41:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.ericdanforthmudama.org/?p=395#comment-2</guid>
+
+					<description><![CDATA[Wonderful Photo!!]]></description>
+			<content:encoded><![CDATA[<p>Wonderful Photo!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

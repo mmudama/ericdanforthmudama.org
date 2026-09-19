@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 	</title>
+	<atom:link href="http://www.ericdanforthmudama.org/?feed=rss2&#038;p=426" rel="self" type="application/rss+xml" />
+	<link>http://www.ericdanforthmudama.org/?p=426</link>
+	<description>In memoriam</description>
+	<lastBuildDate>Sat, 07 Apr 2018 04:26:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.22</generator>
+	<item>
+		<title>
+		By: Betsy Mudama		</title>
+		<link>http://www.ericdanforthmudama.org/?p=426#comment-9</link>
+
+		<dc:creator><![CDATA[Betsy Mudama]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2018 04:26:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.ericdanforthmudama.org/?p=426#comment-9</guid>
+
+					<description><![CDATA[Albany, CA
+Summer 2009
+With his nieces Anna (6), Daisy (4), and Emilie (8) Huber]]></description>
+			<content:encoded><![CDATA[<p>Albany, CA<br />
+Summer 2009<br />
+With his nieces Anna (6), Daisy (4), and Emilie (8) Huber</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 	</title>
+	<atom:link href="http://www.ericdanforthmudama.org/?feed=rss2&#038;p=428" rel="self" type="application/rss+xml" />
+	<link>http://www.ericdanforthmudama.org/?p=428</link>
+	<description>In memoriam</description>
+	<lastBuildDate>Sat, 07 Apr 2018 04:27:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.22</generator>
+	<item>
+		<title>
+		By: Betsy Mudama		</title>
+		<link>http://www.ericdanforthmudama.org/?p=428#comment-10</link>
+
+		<dc:creator><![CDATA[Betsy Mudama]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2018 04:27:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.ericdanforthmudama.org/?p=428#comment-10</guid>
+
+					<description><![CDATA[Summer 2009
+Albany, CA
+Showing off his fancy new phone to his Mom and nieces]]></description>
+			<content:encoded><![CDATA[<p>Summer 2009<br />
+Albany, CA<br />
+Showing off his fancy new phone to his Mom and nieces</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
