@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"./index.html?p=304.html\" /c/Users/momud/AppData/Local/Temp/claude/scratch_inspect/p304.html)",
+      "Bash(cp ./index.html*p=304.html /c/Users/momud/AppData/Local/Temp/claude/scratch_inspect/p304.html)",
+      "Read(//c/Users/momud/AppData/Local/Temp/claude/scratch_inspect/**)",
+      "Bash(mkdir -p /c/Users/momud/AppData/Local/Temp/claude/c--Users-momud-source-repos-mmudama-www-ericdanforthmudama-org/c358b4ff-1102-49a0-ba12-a700201331e1/scratchpad/site_test/scripts)",
+      "Bash(cp /c/Users/momud/source/repos/mmudama/www.ericdanforthmudama.org/scripts/migrate.py /c/Users/momud/AppData/Local/Temp/claude/c--Users-momud-source-repos-mmudama-www-ericdanforthmudama-org/c358b4ff-1102-49a0-ba12-a700201331e1/scratchpad/site_test/scripts/migrate.py)",
+      "Read(//c/Users/momud/AppData/Local/Temp/claude/c--Users-momud-source-repos-mmudama-www-ericdanforthmudama-org/c358b4ff-1102-49a0-ba12-a700201331e1/scratchpad/site_test/**)",
+      "Bash(python3 scripts/migrate.py)",
+      "Bash(python3 \"C:\\\\Users\\\\momud\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-momud-source-repos-mmudama-www-ericdanforthmudama-org\\\\c358b4ff-1102-49a0-ba12-a700201331e1\\\\scratchpad\\\\diff_check.py\")",
+      "Bash(python3 -c ' *)",
+      "Bash(sed -i 's#localhost:8901#localhost:8902#; s#os.chdir\\(r\"C:\\\\\\\\\\\\\\\\Users\\\\\\\\\\\\\\\\momud\\\\\\\\\\\\\\\\srctest\"\\)#os.chdir\\(r\"C:\\\\\\\\\\\\\\\\Users\\\\\\\\\\\\\\\\momud\\\\\\\\\\\\\\\\source\\\\\\\\\\\\\\\\repos\\\\\\\\\\\\\\\\mmudama\\\\\\\\\\\\\\\\www.ericdanforthmudama.org\"\\)#' \"C:\\\\Users\\\\momud\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-momud-source-repos-mmudama-www-ericdanforthmudama-org\\\\c358b4ff-1102-49a0-ba12-a700201331e1\\\\scratchpad\\\\check_http.py\")",
+      "Bash(python3 \"C:\\\\Users\\\\momud\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-momud-source-repos-mmudama-www-ericdanforthmudama-org\\\\c358b4ff-1102-49a0-ba12-a700201331e1\\\\scratchpad\\\\check_http.py\")",
+      "Bash(pkill -f \"http.server 8902\")",
+      "Bash(rm -rf /c/Users/momud/srctest /c/Users/momud/srctest_pristine)"
+    ]
+  }
+}
