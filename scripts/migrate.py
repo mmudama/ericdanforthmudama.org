@@ -259,7 +259,7 @@ DROP_LINK_PATTERNS = [
     r"[ \t]*<link[^>]*rel=[\"']alternate[\"'][^>]*type=[\"']application/json\+oembed[\"'][^>]*/?>[ \t]*\n?",
     r"[ \t]*<link[^>]*rel=[\"']alternate[\"'][^>]*type=[\"']text/xml\+oembed[\"'][^>]*/?>[ \t]*\n?",
     r"[ \t]*<link[^>]*rel=[\"']profile[\"'][^>]*>[ \t]*\n?",
-    r"[ \t]*<link[^>]*rel=['\"]dns-prefetch['\"][^>]*href=['\"]//?s\.w\.org/?['\"][^>]*/?>[ \t]*\n?",
+    r"[ \t]*<link[^>]*rel=['\"]dns-prefetch['\"][^>]*href=['\"](?:https?:)?//?s\.w\.org/?['\"][^>]*/?>[ \t]*\n?",
 ]
 EMOJI_SCRIPT_RE = re.compile(
     r'[ \t]*<script type="text/javascript">window\._wpemojiSettings=.*?</script>[ \t]*\n?',
@@ -338,8 +338,9 @@ def rewrite(content, current_new_path, by_id, image_map):
     content = content.replace(SITE_BUNDLE_FULL_REF, bundle_new)
     content = content.replace(SITE_BUNDLE_SRC, bundle_new)
 
-    content = content.replace("http://fonts.googleapis.com", "https://fonts.googleapis.com")
-    content = content.replace("//fonts.googleapis.com", "https://fonts.googleapis.com")
+    # single pass so the protocol-relative case can't re-match text the first
+    # replacement already produced (that caused a "https:https://" bug once)
+    content = re.sub(r"(?:https?:)?//fonts\.googleapis\.com", "https://fonts.googleapis.com", content)
 
     return content
 
